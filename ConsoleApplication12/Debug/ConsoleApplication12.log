@@ -1,0 +1,8 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\ConsoleApplication12.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication12.vcxproj -> C:\Users\rusli\OneDrive\Документы\ConsoleApplication12\Debug\ConsoleApplication12.exe
